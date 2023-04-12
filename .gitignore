@@ -1,0 +1,10 @@
+# comments
+
+*.bak
+/bin/
+
+# a/one/two b/one/two c/d/one/two
+**/one/two
+
+# everything under three
+three/**
